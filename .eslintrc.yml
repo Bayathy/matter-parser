@@ -2,3 +2,6 @@ env:
   node: true
 extends:
   - bayathy
+
+rules:
+  "unicorn/no-null": off
